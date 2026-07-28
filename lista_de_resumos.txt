@@ -1,0 +1,4 @@
+E-mail: 0: O e-mail dá as boas-vindas a um novo usuário na plataforma e oferece suporte inicial.
+E-mail: 1: Confirmação da reunião agendada para amanhã, com link e opção de reagendamento.
+E-mail: 2: Envio da proposta comercial solicitada, que segue anexa com validade de 15 dias e disponibilidade para esclarecer dúvidas.
+E-mail: 3: Sua fatura para pagamento está disponível e anexa.
